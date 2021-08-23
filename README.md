@@ -1,0 +1,2 @@
+# blender_ShapeKeyRetargeting
+ 通过表面形变修改器来在两个网格之间批量重定向形态键
